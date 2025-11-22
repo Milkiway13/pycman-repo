@@ -1,4 +1,5 @@
 {
-    "rust-hello-world": "https://github.com/meta-rust/rust-hello-world.git"
+    "rust-hello-world": "https://github.com/meta-rust/rust-hello-world.git",
+    "cpp-hello-world": "https://github.com/mucsi96/cpp-hello-world.git"
 }
 
